@@ -1,0 +1,23 @@
+.whiteboard {
+    background: #f8f8f8;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.buttons {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    gap: 20px;
+    display: flex;
+}
+
+.strange {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    gap: 20px;
+    display: flex;
+}
